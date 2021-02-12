@@ -1,0 +1,7 @@
+flask_restful
+flask
+schedule
+youtube-dl
+mp3-tagger
+eyeD3
+bs4
